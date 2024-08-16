@@ -2,7 +2,7 @@
 
 Meu nome é Andréia
 
-- Estou estudando na [Alura](https://www.alura.com.br)
+- Estou utilizando o [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
 - utilizo esse espaço para minha organição e compartilhamento dos meus projetos desenvolvimento
 
